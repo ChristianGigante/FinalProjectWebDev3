@@ -12,7 +12,10 @@
           <router-link to="/">Home</router-link>  |
         </b-navbar-brand>
         <b-navbar-brand>
-          <router-link to="/about">About</router-link>
+          <router-link to="/about">About</router-link>  |
+        </b-navbar-brand>
+        <b-navbar-brand>
+          <router-link to="/form">Form</router-link>
         </b-navbar-brand>
 
         <!-- <b-navbar-toggle target="nav-collapse"></b-navbar-toggle> -->

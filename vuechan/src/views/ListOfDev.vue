@@ -10,12 +10,7 @@
 
 <script>
 export default {
-  props:["groups"],
-  data() {
-    return {
-      
-    };
-  }
+  props:["groups"]
 };
 </script>
 

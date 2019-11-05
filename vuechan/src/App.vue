@@ -9,7 +9,7 @@
 import Header from "../src/components/Header";
 export default {
   components: {
-    Header
+    Header,
   }
 };
 </script>
