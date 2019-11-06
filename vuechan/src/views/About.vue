@@ -2,7 +2,7 @@
   <div class="about">
     <br />
     <h1>
-      <center>Developers</center>
+      <center class="text-white">Developers</center>
     </h1>
     <ListOfDev v-bind:groups="groups" />
   </div>

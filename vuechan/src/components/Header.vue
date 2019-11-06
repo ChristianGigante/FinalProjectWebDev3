@@ -7,7 +7,7 @@
       </b-navbar-brand>
     </b-navbar>-->
     <div>
-      <b-navbar toggleable="lg" type="dark" variant="dark">
+      <b-navbar toggleable="lg" type="light" variant="dark">
         <b-navbar-brand>
           <router-link to="/">Home</router-link>  |
         </b-navbar-brand>
@@ -15,7 +15,10 @@
           <router-link to="/about">About</router-link>  |
         </b-navbar-brand>
         <b-navbar-brand>
-          <router-link to="/form">Form</router-link>
+          <router-link to="/form">Form</router-link>  |
+        </b-navbar-brand>
+        <b-navbar-brand>
+          <router-link to="/login">Login</router-link>
         </b-navbar-brand>
 
         <!-- <b-navbar-toggle target="nav-collapse"></b-navbar-toggle> -->
